@@ -12,5 +12,6 @@ services:
       USER: yamamoto
       PASSWD: yamamoto
     volumes:
-      - ./:/home
+      - ./:/home/
+      - /mnt/c/Users/Public/Documents/MakeCPU_resource/:/home/workdir/res/
 
