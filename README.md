@@ -17,3 +17,9 @@ $ docker-compose up
 ```
 $ hostname -I
 ```
+
+Vivado起動方法
+```
+$ <INSTALLDIR>/Vivado/2020.1/bin/vivado
+```
+
